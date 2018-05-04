@@ -32,7 +32,6 @@
   "dependencies": {
     "axios": "^0.16.2",
     "babel-polyfill": "^6.20.0",
-    "bootstrap": "^4.0.0-alpha.6",
     "dayjs": "^1.5.19",
     "element-ui": "^2.3.6",
     "js-cookie": "^2.1.3",
