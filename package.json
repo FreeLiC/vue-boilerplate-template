@@ -116,7 +116,6 @@
     "svgxuse": "^1.1.16",
     "sw-precache-webpack-plugin": "^0.11.4",
     "uglify-es": "^3.3.9",
-    "uglifyjs-webpack-plugin": "^1.2.5",
     "url-loader": "^0.5.7",
     "vue-loader": "^11.0.0",
     "vue-style-loader": "^2.0.0",
