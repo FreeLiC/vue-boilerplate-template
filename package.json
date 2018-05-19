@@ -18,6 +18,7 @@
     "e2e": "node test/e2e/runner.js",
     "test": "npm run unit && npm run e2e",
     "pretest": "NODE_ENV=production node build/build.js && node test/index.js",
+    "preview": "NODE_ENV=production node build/preview.js",
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "pre-commit": [
